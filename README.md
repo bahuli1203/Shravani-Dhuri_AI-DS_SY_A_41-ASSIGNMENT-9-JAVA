@@ -1,4 +1,4 @@
-# Student REST API with Spring Boot Security (Assignment 9)
+#Shravani-Dhuri_AI-DS_SY_A_41-ASSIGNMENT-9-JAVA
 
 A secure Spring Boot REST API for managing student records, built using a **3-layer MVC architecture** and **Data Transfer Objects (DTOs)**. The application secures endpoints using **Spring Security** (Basic Authentication) with role-based access control (RBAC).
 
